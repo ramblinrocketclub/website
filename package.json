@@ -14,5 +14,8 @@
     "build": "yarn css:build && zola build",
     "css:watch": "TAILWIND_MODE=watch NODE_ENV=development postcss templates/styles.css -o static/styles.css -w",
     "css:build": "TAILWIND_MODE=build NODE_ENV=production postcss templates/styles.css -o static/styles.css"
+  },
+  "dependencies": {
+    "@tailwindcss/typography": "^0.4.1"
   }
 }
