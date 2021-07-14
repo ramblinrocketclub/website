@@ -1,0 +1,7 @@
+version: 2
+updates:
+  # Automatically update github-pages-deploy-action
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"

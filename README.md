@@ -19,6 +19,8 @@ There are two yarn scripts to abstract away the details of using Tailwind with Z
 
 Zola is a static site generator and has a lot of cool features, but this site is quite simple. It does not use any themes, all the html files are in `templates/`. The content of the pages is all in `content/`. Everything in `static/` will be served directly at the root of the folder.
 
+`zola serve`
+
 ### Tailwind
 
 TailwindCSS is used to manage all the CSS stylesheets, but as support is not built into Zola, it requires JS tooling. Once `yarn` is installed, simply do `yarn install` to aquire all the dependencies required to run Tailwind. This project leverages Tailwind's JIT mode to dynamically generate CSS classes instead of generating them upfront. 
