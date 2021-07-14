@@ -2,6 +2,7 @@
 [extra]
 background = "home/header.jpg"
 logo = "branding/logo.png"
+show_toc = false
 +++
 
 # What is the Ramblin' Rocket Club?
