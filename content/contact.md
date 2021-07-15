@@ -2,6 +2,7 @@
 title = "About"
 description = "About"
 weight = 3
+show_toc = true
 +++
 
 # Juice

@@ -13,6 +13,7 @@ Zola is a static site generator and has a lot of cool features, but this site is
 Install Zola per the instructions [here](https://www.getzola.org/documentation/getting-started/installation/). 
 
 Development: `zola serve`
+
 Build: `zola build`
 
 ### Deployment
