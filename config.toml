@@ -18,5 +18,6 @@ header = 'branding/header.png'
 
 dropdown = ["Teams"]
 links = [
-    { title = "Slack", link = "https://slack.com"}
+    { title = "Slack", link = "https://slack.com"},
+    { title = "Subscribe", link = "https://lists.gatech.edu/sympa/subscribe/gtrc" }
 ]
