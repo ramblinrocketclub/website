@@ -3,6 +3,7 @@
 @import "_utility.scss";
 @import "_text.scss";
 @import "_markdown.scss";
+@import "_header.scss";
 
 body {
   padding: 0;
@@ -177,6 +178,7 @@ footer {
 
   main {
     padding: 30px;
+    margin-bottom: 100%;
   }
 
   .content {
@@ -187,4 +189,18 @@ footer {
     display: none;
   }
 
+}
+
+html, body {
+  min-height: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#container {
+  min-height: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
 }
