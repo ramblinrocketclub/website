@@ -26,7 +26,7 @@
   <body>
     {% block header %}
 
-    <header class="pos-absolute" style="background-color: transparent">
+    <header class="pos-absolute" >
       {{ header::render_header() }}
     </header>
 
@@ -41,7 +41,7 @@
         <div>
           <a
             class="github-button"
-            href="https://slack.com"
+            href="{{ config.extra.slack_invite }}"
             data-size="large"
             data-show-count="true"
             aria-label="Join our Slack!"

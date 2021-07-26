@@ -30,7 +30,7 @@ p > img {
 }
 
 header {
-  background-color: var(--primary-color);
+  background-color: var(--header-background);
   color: black;
   padding: 20px 50px;
   display: flex;
@@ -47,7 +47,8 @@ header {
   margin: 0 40px;
 
   img {
-    width: 60px;
+    width: 100%;
+    height: 100px;
     margin: 0 25px;
   }
 }
@@ -55,11 +56,12 @@ header {
 .nav-item {
   margin: 0 10px;
   text-decoration: none;
-  font-size: 18px;
+  font-size: 22px;
   font-weight: bold;
+  color: var(--header-text-color);
 
   &:hover {
-    color: #000;
+    color: #BFB37C;
     text-decoration: underline;
   }
 }
