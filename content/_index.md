@@ -20,10 +20,6 @@ Info!
 
 Info!
 
-## Undergraduate Student Launch Initiative
-
-Info!
-
 ## High Altitude Balloon
 
 Info!
