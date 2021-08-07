@@ -1,0 +1,7 @@
+{% if height and width %}
+{% set image = resize_image(path="../static/" ~ path, width=width, height=height) %}
+<img src="{{ image }}" alt="{{ desc }}"/>
+{% else %}
+{% set url = get_url(path=path) %}
+<img src="{{ url }}" alt="{{ desc }}"/>
+{% endif %}
