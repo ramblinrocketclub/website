@@ -7,10 +7,10 @@ weight = 2
 
 # Build Your Own Rocket!
 
-High Power Rocketry helps students at Georgia Tech build and launch their own high power rockets and get certified with the National Association of Rocketry. 
+High Power Rocketry helps students at Georgia Tech build and launch their own high power rockets and get certifications from the National Association of Rocketry.
 
-First time building a rocket? No problem! Bring your enthusiasm and we’ll teach you how to do the rest. Our students start applying rocketry concepts such as stability, thrust-to-weight ratios and get hands-on experience manufacturing with their Level 1 rockets. At Level 2, we help students build more complex vehicles that typically include electronics, and may include more advanced materials such as fiberglass or carbon fiber.
+First time building a rocket? No problem! Bring your enthusiasm and we’ll teach you how to do the rest. Students will learn to use simulations and design software to create their rockets. Students will also have the opportunity to apply rocketry concepts such as stability, thrust-to-weight ratios and get hands-on experience manufacturing with their Level 1 rockets. At Level 2, we help students build more complex vehicles that typically include electronics, and may include more advanced materials such as fiberglass or carbon fiber. At Level 3, the final level for the NAR, students can create a written report that documents their process in building and designing a large high powered rocket. Rockets at this level will include electronics and utilize multiple advanced materials that can withstand the forces on the rocket.
 
-We attend several launches each year, up to once a month. Expect to see us at HARA launches, ROSCO launches, and SEARS launches!
+We attend several launches each year to provide all our students the opportunity to launch their creations. Expect to see us at HARA, ROSCO, and SEARS launches located across Alabama, Georgia and South Carolina! Hope to see you there! 
 
-Find out more: https://www.nar.org/
+Find out more about high powered rocketry certifications at https://www.nar.org/

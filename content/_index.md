@@ -14,9 +14,9 @@ The Ramblin’ Rocket Club (NAR Section 701 - GTRC) is one of the biggest studen
 
 ## High Powered Rocketry
 
-High Power Rocketry helps students at Georgia Tech build and launch their own high power rockets and get certified with the National Association of Rocketry.
+High Power Rocketry helps students at Georgia Tech build and launch their own high power rockets and get certifications from the National Association of Rocketry.
 
-First time building a rocket? No problem! Bring your enthusiasm and we’ll teach you how to do the rest. We attend several launches each year, up to once a month. Expect to see us at HARA launches, ROSCO launches, and SEARS launches!
+First time building a rocket? No problem! Bring your enthusiasm and we’ll teach you the rest! We attend several launches each year to provide all our students the opportunity to launch their creations. Expect to see us at HARA, ROSCO, and SEARS launches located across Alabama, Georgia and South Carolina! Hope to see you there! 
 
 ## Georgia Tech Experimental Rocketry
 
