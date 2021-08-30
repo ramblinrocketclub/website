@@ -1,7 +1,7 @@
 +++
-title = "High Power Rocketry | HPR"
+title = "HPR"
 # Main heading
-description = "HPR"
+description = "High Power Rocketry | HPR"
 weight = 2
 +++
 
