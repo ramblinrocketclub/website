@@ -10,7 +10,12 @@ hero = "branding/logo.png"
 content_title = "What is Ramblin' Rocket Club?"
 +++
 
-The Ramblin’ Rocket Club (NAR Section 701 - GTRC) is one of the biggest student-led organizations in Georgia Tech’s School of Aerospace Engineering. Our active membership consists of over 100 BS, MS, and Ph.D. students working on a diverse set of projects, ranging from competitive rocketry to high altitude balloons for cube-satellite research. Learn more about our sub-teams below!
+The Ramblin’ Rocket Club (NAR Section 701 - GTRC) is one of the biggest student-led organizations in Georgia Tech’s School of Aerospace Engineering. Our active membership consists of over 100 BS, MS, and Ph.D. students working on a diverse set of projects, ranging from competitive rocketry to high altitude balloons for cube-satellite research. 
+
+# Contact Us!
+Email: ramblinrocketclub@gmail.com
+Instagram: @ramblinrocketclub
+Linkedin & Facebook: Ramblin' Rocket Club
 
 ## High Powered Rocketry
 
