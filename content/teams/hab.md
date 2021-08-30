@@ -1,7 +1,7 @@
 +++
-title = "High Altitude Balloons | HAB"
+title = "HAB"
 # Main heading
-description = "HAB"
+description = "High Altitude Balloons | HAB"
 weight = 3
 +++
 
