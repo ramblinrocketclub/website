@@ -1,5 +1,5 @@
 +++
-title = "HPR"
+title = "High Power Rocketry | HPR"
 # Main heading
 description = "HPR"
 weight = 2
