@@ -1,5 +1,5 @@
 +++
-title = "GTXR)"
+title = "GTXR"
 # Main heading
 description = "Georgia Tech Experimental Rocketry | GTXR"
 weight = 1
