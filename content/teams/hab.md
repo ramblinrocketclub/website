@@ -5,6 +5,8 @@ description = "HAB"
 weight = 3
 +++
 
+{{ image(path="teams/hab/High Altitude Balloon Launch March 2019.jpg", desc="Photo taken by HAB during the Mach 2019 Launch")}}
+
 # Georgia Tech’s Highest Flying Team!
  
 The High-Altitude Balloons team is a new sub-team producing the highest-flying and longest-running flights in the RRC!
