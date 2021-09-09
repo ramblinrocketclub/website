@@ -1,7 +1,7 @@
 +++
 [extra]
 background = "home/header.jpg"
-logo = "branding/logo.png"
+logo = "branding/header.png"
 show_toc = false
 heading = "Georgia Tech’s Premier Student Rocketry Organization"
 subheading = "Meetings at 6:30 pm Thursdays at Guggenheim 442"
