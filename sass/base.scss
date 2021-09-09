@@ -72,6 +72,10 @@ header {
   align-items: center;
   justify-content: space-evenly;
   height: 100vh;
+  background: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), url("home/header.jpg");
+  //background-image: ;
+  background-repeat: no-repeat;
+  background-size: cover;
   background-color: var(--primary-color);
   overflow-x: hidden;
   padding: 0 40px;
