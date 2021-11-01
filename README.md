@@ -1,10 +1,16 @@
 # Ramblin Rocket Club Website
 
-This site is built with Zola.
+This site is built with Zola. Content can be edited directly on Github as a pull request and will automagically be checked to ensure everything is correct.
 
 ## Managing Content
 
-TODO
+Content on the home page lives in `content/_index.md`.
+
+Content for each subteam is located in `content/teams`. Other pages are also in `content/`
+
+Links for the homepage, such as the Slack invite link and Mailing List are defined in `config.toml` and can be update from there.
+
+Images should be placed within `static/teams`. They can then be embedded into the website using a shortcode as such: `{{ image(path="teams/hab/High Altitude Balloon Launch March 2019.jpg", desc="Photo taken by HAB during the Mach 2019 Launch")}}`
 
 ## Zola
 
