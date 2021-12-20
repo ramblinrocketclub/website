@@ -20,7 +20,7 @@ jobs:
         run: ./zola build
 
       - name: Deploy Site
-        uses: JamesIves/github-pages-deploy-action@4.1.5
+        uses: JamesIves/github-pages-deploy-action@4.1.8
         with:
           branch: gh-pages
           folder: public
