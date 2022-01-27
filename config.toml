@@ -16,10 +16,10 @@ render_emoji = true
 # Image in Nav Bar
 header = 'branding/header.png'
 
-slack_invite = "https://join.slack.com/t/ramblin-rocket-club/shared_invite/zt-9l25uklu-Ti5FllNnoDH6iXDtPHVU2Q"
+slack_invite = "https://ramblin-rocket-club.slack.com/"
 
 dropdown = ["Teams"]
 links = [
-    { title = "Slack", link = "https://join.slack.com/t/ramblin-rocket-club/shared_invite/zt-9l25uklu-Ti5FllNnoDH6iXDtPHVU2Q"},
+    { title = "Slack", link = "https://ramblin-rocket-club.slack.com/"},
     { title = "Mailing List", link = "https://lists.gatech.edu/sympa/subscribe/gtrc" }
 ]
