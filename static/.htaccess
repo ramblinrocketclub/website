@@ -1,6 +1,6 @@
 RewriteEngine On
 # RewriteCond "%{HTTPS}" "=off"                           [OR]
-RewriteCond %{HTTP_HOST} ^www.rocketry.gatech.edu       [OR]
+# RewriteCond %{HTTP_HOST} ^www.rocketry.gatech.edu       [OR]
 RewriteCond %{HTTP_HOST} ^rocket.gtorg.gatech.edu       [OR]
 RewriteCond %{HTTP_HOST} ^www.rocket.gtorg.gatech.edu   [OR]
 RewriteRule (.*) https://rocketry.gatech.edu/$1 [R=301,L]
