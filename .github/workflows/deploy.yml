@@ -22,5 +22,5 @@ jobs:
       - name: Deploy Site
         uses: JamesIves/github-pages-deploy-action@v4.4.0
         with:
-          branch: gh-pages
+          branch: deploy
           folder: public
