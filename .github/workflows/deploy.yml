@@ -24,3 +24,4 @@ jobs:
         with:
           branch: deploy
           folder: public
+          single-commit: true
