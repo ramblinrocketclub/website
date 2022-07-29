@@ -22,7 +22,7 @@ Development: `zola serve`
 
 Build: `zola build`
 
-### Deployment
+## Deployment
 
 Deployment is a bit complex. Details are on the internal wiki.
 
