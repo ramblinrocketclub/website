@@ -24,4 +24,6 @@ Build: `zola build`
 
 ### Deployment
 
-This site is deployed on Github Pages. It is built and deployed using Github Actions. The workflow is located in `.github/workflows/deploy.yml`.
+Deployment is a bit complex. Details are on the internal wiki.
+
+**Do not edit CI/CD, Google site verification, Github environments, `_headers`, or `.htaccess` without understanding how it works**
