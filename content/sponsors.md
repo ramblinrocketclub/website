@@ -9,16 +9,15 @@ If you are representing a company, make a material donation, or wish to sponsor 
 
 #### [**Contact Us!**](ramblinrocketclub@gmail.com)
 
----
 ## **Team Partner** 
 
 ![image](https://user-images.githubusercontent.com/116322179/197682261-6ee284ca-bf15-45b3-8a7d-b24f40623eb2.png)
 
----
+
 ### **Interplanetary Level Sponsors**
 
----
+
 ### **Orbital Level Sponsors**
 
----
+
 
