@@ -7,7 +7,7 @@ The Ramblin’ Rocket Club is funded through generous sponsorships and donations
 
 If you are representing a company, make a material donation, or wish to sponsor Ramblin’ Rocket Club, please contact us here:
 
-#### [**Contact Us!**](ramblinrocketclub@gmail.com)
+#### [**Contact Us!**](https://mail.ramblinrocketclub@gmail.com)
 
 ---
 ## **Team Partner** 
