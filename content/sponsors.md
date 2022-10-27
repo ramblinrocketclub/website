@@ -19,8 +19,8 @@ If you are representing a company, make a material donation, or wish to sponsor 
 ---
 ## **Team Partner** 
 
-<img src="HEXAGON.jpeg" alt="drawing" width="200"/>
-2
+<img src="![image](https://user-images.githubusercontent.com/116322179/198417498-030561f5-0196-4a86-ba07-8f926b4b75ea.png)
+" height="50"  width="50"/>
 ---
 ### **Interplanetary Level Sponsors**
 
