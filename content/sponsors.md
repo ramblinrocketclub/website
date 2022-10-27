@@ -20,7 +20,7 @@ If you are representing a company, make a material donation, or wish to sponsor 
 ## **Team Partner** 
 
 <img src="HEXAGON.jpeg" alt="drawing" width="200"/>
-
+2
 ---
 ### **Interplanetary Level Sponsors**
 
