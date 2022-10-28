@@ -19,13 +19,30 @@ If you are representing a company, make a material donation, or wish to sponsor 
 ---
 ## **Team Partner** 
 
-<img src="![image](https://user-images.githubusercontent.com/116322179/198417498-030561f5-0196-4a86-ba07-8f926b4b75ea.png)
-" height="50"  width="50"/>
+![HEXAGON](https://user-images.githubusercontent.com/116322179/198417955-f17ac361-68df-4a44-9075-0f2138269ed1.jpeg)
+
 ---
 ### **Interplanetary Level Sponsors**
 
----
-### **Orbital Level Sponsors**
+![image](https://user-images.githubusercontent.com/116322179/198418053-d9a26b7c-6406-440d-a89e-bfe60599158b.png)
+![image](https://user-images.githubusercontent.com/116322179/198418178-e45ff716-9100-4311-b34e-90a4c0a512ad.png)
+
 
 ---
+### **Orbital Level Sponsors**
+![image](https://user-images.githubusercontent.com/116322179/198418332-a49f00c8-ea4d-4761-80f6-c352c1fe63f8.png)![image](https://user-images.githubusercontent.com/116322179/198418588-bbe3715b-7f8e-4397-97af-b7bc403a102f.png)![image](https://user-images.githubusercontent.com/116322179/198419345-90835990-7477-4fe5-84e9-00970126cbef.png)
+
+
+# **MR. SHI**
+
+---
+### **Sub-Orbital Level Sponsors**
+
+![image](https://user-images.githubusercontent.com/116322179/198418676-0a3de07d-23ba-4df8-b5d2-b33dbe6b6fd3.png)
+![image](https://user-images.githubusercontent.com/116322179/198418705-d6e60765-8b8c-4f1e-9304-d21a40e440c1.png)
+![image](https://user-images.githubusercontent.com/116322179/198418734-4000741b-ea36-4fdc-a56b-6dad9e997421.png)
+![image](https://user-images.githubusercontent.com/116322179/198418783-3c9f7744-6b78-402e-a9e3-2cf49d00391f.png)
+![image](https://user-images.githubusercontent.com/116322179/198419182-0759cf46-e8b0-4c0a-a92a-cf404ffc737e.png)
+
+
 
