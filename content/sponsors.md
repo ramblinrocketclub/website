@@ -16,6 +16,7 @@ If you are representing a company, make a material donation, or wish to sponsor 
 
 #### [**Contact Us!**](mailto:ramblinrocketclub@gmail.com)
 
+<div align = "center">
 
 ## **Team Partner** 
 ---
@@ -30,7 +31,9 @@ If you are representing a company, make a material donation, or wish to sponsor 
 
 ## **Orbital Level Sponsors**
 ---
-![image](https://user-images.githubusercontent.com/116322179/198418332-a49f00c8-ea4d-4761-80f6-c352c1fe63f8.png)![image](https://user-images.githubusercontent.com/116322179/198418588-bbe3715b-7f8e-4397-97af-b7bc403a102f.png)![image](https://user-images.githubusercontent.com/116322179/198419345-90835990-7477-4fe5-84e9-00970126cbef.png)
+![image](https://user-images.githubusercontent.com/116322179/198418332-a49f00c8-ea4d-4761-80f6-c352c1fe63f8.png)
+![image](https://user-images.githubusercontent.com/116322179/199856092-f239473f-71f0-4d6d-af68-ad396718dc98.png)
+![image](https://user-images.githubusercontent.com/116322179/198419345-90835990-7477-4fe5-84e9-00970126cbef.png)
 
 
 # **MR. SHI**
