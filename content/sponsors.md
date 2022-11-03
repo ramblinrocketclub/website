@@ -17,7 +17,7 @@ If you are representing a company, make a material donation, or wish to sponsor 
 #### [**Contact Us!**](mailto:ramblinrocketclub@gmail.com)
 
 <div align = "center">
-
+## hi
 ## **Team Partner** 
 ---
 ![HEXAGON](https://user-images.githubusercontent.com/116322179/198417955-f17ac361-68df-4a44-9075-0f2138269ed1.jpeg)
