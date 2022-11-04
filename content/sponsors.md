@@ -17,7 +17,7 @@ If you are representing a company, make a material donation, or wish to sponsor 
 ## **Interplanetary Level Sponsors**
 ---
  <p align="center">
-    <img src="https://user-images.githubusercontent.com/116322179/199863013-8ac0ba30-80a7-464a-8dc2-4f1844e4b0e6.png" height = "300">
+    <img src="https://user-images.githubusercontent.com/116322179/199863013-8ac0ba30-80a7-464a-8dc2-4f1844e4b0e6.png" height = "200">
     <img src="https://user-images.githubusercontent.com/116322179/198418178-e45ff716-9100-4311-b34e-90a4c0a512ad.png" height = "100">
 
 
