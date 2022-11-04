@@ -8,20 +8,25 @@ The Ramblin’ Rocket Club is funded through generous sponsorships and donations
 #### [**Donate Now**](https://epay.gatech.edu/C20793_ustores/web/product_detail.jsp?PRODUCTID=5070)
 If you are representing a company, make a material donation, or wish to sponsor Ramblin’ Rocket Club, please contact us here:
 #### [**Contact Us!**](mailto:ramblinrocketclub@gmail.com)
-## **Team Partner** 
+---
+
+# **Team Partner** 
 ---
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/116322179/199862642-3c519d53-7174-49a1-a130-8c336caab757.png" width = "400" height = "400">
-
-## **Interplanetary Level Sponsors**
+    
+---
+    
+# **Interplanetary Level Sponsors**
 ---
  <p align="center">
     <img src="https://user-images.githubusercontent.com/116322179/199863013-8ac0ba30-80a7-464a-8dc2-4f1844e4b0e6.png" height = "200">
     <img src="https://user-images.githubusercontent.com/116322179/198418178-e45ff716-9100-4311-b34e-90a4c0a512ad.png" height = "100">
 
-
-## **Orbital Level Sponsors**
+---
+     
+# **Orbital Level Sponsors**
 ---
 
 <p align="center">
@@ -30,7 +35,9 @@ If you are representing a company, make a material donation, or wish to sponsor 
     <img src="https://user-images.githubusercontent.com/116322179/199862949-189106e0-3bea-4a7f-85b9-a65758090e4c.png" height = "200">
 
 # **MR. SHI**
-## **Sub-Orbital Level Sponsors**
+---
+    
+# **Sub-Orbital Level Sponsors**
 ---
 <p align="center">
     <img src="https://user-images.githubusercontent.com/116322179/199863054-0cd895f9-0043-4c29-a6f3-973bf42929e9.png" height = "150">
