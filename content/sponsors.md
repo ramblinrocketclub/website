@@ -22,8 +22,8 @@ If you are representing a company, make a material donation, or wish to sponsor 
 # **Interplanetary Level Sponsors**
 ---
  <p align="center">
-    <img src="https://user-images.githubusercontent.com/116322179/199863013-8ac0ba30-80a7-464a-8dc2-4f1844e4b0e6.png" height = "50%">
-    <img src="https://user-images.githubusercontent.com/116322179/200193529-eeef9b0d-7d94-4e36-b093-306abcd60fc4.png" height = "50%">
+    <img src="https://user-images.githubusercontent.com/116322179/200193864-93008cbe-d690-4c35-b5b6-ce55e7ebc4c5.png" height = "200">
+    <img src="https://user-images.githubusercontent.com/116322179/200193529-eeef9b0d-7d94-4e36-b093-306abcd60fc4.png" height = "100%">
 
 ---
      
@@ -45,5 +45,5 @@ If you are representing a company, make a material donation, or wish to sponsor 
     <img src="https://user-images.githubusercontent.com/116322179/199863118-57a9fb68-23c6-4d0f-aae1-290b42f5c81e.png" height = "150">
     <img src="https://user-images.githubusercontent.com/116322179/199863157-bcf89454-5c0a-497c-aec7-da25f716ba59.png" height = "150">
     <img src="https://user-images.githubusercontent.com/116322179/199863210-c9d73227-c9ac-4b7c-b1c6-24c9a24074eb.png" height = "250">
-    <img src="https://user-images.githubusercontent.com/116322179/198419182-0759cf46-e8b0-4c0a-a92a-cf404ffc737e.png" height = "150">
+    <img src="https://user-images.githubusercontent.com/116322179/198419182-0759cf46-e8b0-4c0a-a92a-cf404ffc737e.png" height = "75">
 
