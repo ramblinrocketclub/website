@@ -4,6 +4,7 @@ description = "Sponsors"
 weight = 2
 show_toc = true
 +++
+
 The Ramblin’ Rocket Club is funded through generous sponsorships and donations that help us purchase materials and fund our research and travel. These companies and individuals power us to give students hands-on technical and teamwork experience they need to become incredible engineers and leaders before entering the workforce. If you are interested in supporting us to continue this mission, please consider donating through this button:
 #### [**Donate Now**](https://epay.gatech.edu/C20793_ustores/web/product_detail.jsp?PRODUCTID=5070)
 If you are representing a company, make a material donation, or wish to sponsor Ramblin’ Rocket Club, please contact us here:
@@ -14,15 +15,15 @@ If you are representing a company, make a material donation, or wish to sponsor 
 ---
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/116322179/199862642-3c519d53-7174-49a1-a130-8c336caab757.png" width = "100" height = "100"/>
+    <img src="https://user-images.githubusercontent.com/116322179/199862642-3c519d53-7174-49a1-a130-8c336caab757.png" height = "50%"/>
     
 ---
     
 # **Interplanetary Level Sponsors**
 ---
  <p align="center">
-    <img src="https://user-images.githubusercontent.com/116322179/199863013-8ac0ba30-80a7-464a-8dc2-4f1844e4b0e6.png" height = "200">
-    <img src="https://user-images.githubusercontent.com/116322179/198418178-e45ff716-9100-4311-b34e-90a4c0a512ad.png" height = "100">
+    <img src="https://user-images.githubusercontent.com/116322179/199863013-8ac0ba30-80a7-464a-8dc2-4f1844e4b0e6.png" height = "50%">
+    <img src="https://user-images.githubusercontent.com/116322179/198418178-e45ff716-9100-4311-b34e-90a4c0a512ad.png" height = "50%">
 
 ---
      
