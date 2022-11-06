@@ -13,7 +13,6 @@ If you are representing a company, make a material donation, or wish to sponsor 
 
 # **Team Partner** 
 ---
-
 <p align="center">
     <img src="https://user-images.githubusercontent.com/116322179/199862642-3c519d53-7174-49a1-a130-8c336caab757.png" height = "50%"/>
     
@@ -25,11 +24,9 @@ If you are representing a company, make a material donation, or wish to sponsor 
     <img src="https://user-images.githubusercontent.com/116322179/200193864-93008cbe-d690-4c35-b5b6-ce55e7ebc4c5.png" height = "200">
     <img src="https://user-images.githubusercontent.com/116322179/200193529-eeef9b0d-7d94-4e36-b093-306abcd60fc4.png" height = "100%">
 
----
-     
+---  
 # **Orbital Level Sponsors**
 ---
-
 <p align="center">
     <img src="https://user-images.githubusercontent.com/116322179/199862897-9b41488e-42be-4e80-aba3-47f43fa9a372.png" height = "300">
     <img src="https://user-images.githubusercontent.com/116322179/199862949-189106e0-3bea-4a7f-85b9-a65758090e4c.png" height = "200">
