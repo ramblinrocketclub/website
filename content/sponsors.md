@@ -23,7 +23,7 @@ If you are representing a company, make a material donation, or wish to sponsor 
 ---
  <p align="center">
     <img src="https://user-images.githubusercontent.com/116322179/199863013-8ac0ba30-80a7-464a-8dc2-4f1844e4b0e6.png" height = "50%">
-    <img src="https://user-images.githubusercontent.com/116322179/198418178-e45ff716-9100-4311-b34e-90a4c0a512ad.png" height = "50%">
+    <img src="https://user-images.githubusercontent.com/116322179/200193529-eeef9b0d-7d94-4e36-b093-306abcd60fc4.png" height = "50%">
 
 ---
      
@@ -32,7 +32,7 @@ If you are representing a company, make a material donation, or wish to sponsor 
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/116322179/199862897-9b41488e-42be-4e80-aba3-47f43fa9a372.png" height = "300">
-    <img src="https://user-images.githubusercontent.com/116322179/199856092-f239473f-71f0-4d6d-af68-ad396718dc98.png" height = "200">
+    <img src="https://user-images.githubusercontent.com/116322179/199856092-f239473f-71f0-4d6d-af68-ad396718dc98.png" height = "50">
     <img src="https://user-images.githubusercontent.com/116322179/199862949-189106e0-3bea-4a7f-85b9-a65758090e4c.png" height = "200">
 
 # **MR. SHI**
