@@ -3,5 +3,5 @@
 <img src="{{ image.url }}" alt="{{ desc }}" width="{{ width }}" height="{{ height }}" {% if style %}style="{{style}}"{% endif %}/>
 {% else %}
 {% set url = get_url(path=path) %}
-<img src="{{ url }}" alt="{{ desc }}" {% if style %}style="{{style}}"{% endif %}"/>
+<img src="{{ url }}" alt="{{ desc }}" {% if style %}style="{{style}}"{% endif %}/>
 {% endif %}
