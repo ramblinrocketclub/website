@@ -13,6 +13,9 @@ If you are representing a company, make a material donation, or wish to sponsor 
 
 # **Team Partner** 
 ---
+
+{{ image(path="branding/hexagon.png", desc="Hexagon Logo", height="50%", width="50%") }}
+
 <p align="center">
     <img src="https://user-images.githubusercontent.com/116322179/199862642-3c519d53-7174-49a1-a130-8c336caab757.png" width = "50%"/>
     
