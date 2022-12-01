@@ -21,7 +21,7 @@ If you are representing a company, make a material donation, or wish to sponsor 
 # **Interplanetary Level Sponsors**
 ---
  
- {{ image(path="branding/sponsors/GTAElogo.png", desc="GTAE Logo", height=200, width = 800, style="margin: auto; display: block") }}
+ {{ image(path="branding/sponsors/GTAElogo.png", desc="GTAE Logo", height=150, width = 800, style="margin: auto; display: block") }}
 
 {{ image(path="branding/sponsors/SGAlogo.png", desc="SGA Logo", height=400, width=400, style="margin: auto; display: block") }}
 
@@ -43,11 +43,11 @@ If you are representing a company, make a material donation, or wish to sponsor 
 
 {{ image(path="branding/sponsors/NorthropGrummanlogo.png", desc="Northrop Grumman Logo", height=250,  style="margin: auto; display: block") }}
 
-{{ image(path="branding/sponsors/RockWestCompositeslogo.png", desc="Rock West Composites Logo", height=200, width = 600,  style="margin: auto; display: block") }}
+{{ image(path="branding/sponsors/RockWestCompositeslogo.png", desc="Rock West Composites Logo", height=100, width = 600,  style="margin: auto; display: block") }}
 
-{{ image(path="branding/sponsors/GraphiteStorelogo.png", desc="The Graphite Store Logo", height=250, width = 500, style="margin: auto; display: block") }}
+{{ image(path="branding/sponsors/GraphiteStorelogo.png", desc="The Graphite Store Logo", height=150, width = 500, style="margin: auto; display: block") }}
 
 {{ image(path="branding/sponsors/ICIlogo.png", desc="ICI Logo", height=50, width = 600, style="margin: auto; display: block") }}
 
-{{ image(path="branding/sponsors/BRBlogo.png", desc="Big Red Bee Logo", height=300, width = 600, style="margin: auto; display: block") }}
+{{ image(path="branding/sponsors/BRBlogo.png", desc="Big Red Bee Logo", height=200, width = 600, style="margin: auto; display: block") }}
 
