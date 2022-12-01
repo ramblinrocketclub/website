@@ -13,36 +13,36 @@ If you are representing a company, make a material donation, or wish to sponsor 
 
 # **Team Partner** 
 ---
-{{ image(path="branding/sponsors/hexagon.png", desc="Hexagon Logo", height=200, width=200, style="margin: auto; display: block") }}
+{{ image(path="branding/sponsors/hexagon.png", desc="Hexagon Logo", height=400, width=400, style="margin: auto; display: block") }}
 
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/116322179/199862642-3c519d53-7174-49a1-a130-8c336caab757.png" width = "50%"/>
+
+
     
 ---
     
 # **Interplanetary Level Sponsors**
 ---
- <p align="center">
-    <img src="https://user-images.githubusercontent.com/116322179/200193864-93008cbe-d690-4c35-b5b6-ce55e7ebc4c5.png" height = "200">
-    <img src="https://user-images.githubusercontent.com/116322179/200193529-eeef9b0d-7d94-4e36-b093-306abcd60fc4.png" width = "100%">
+ 
+ {{ image(path="branding/sponsors/GTAElogo.png", desc="GTAE Logo", height=200, style="margin: auto; display: block") }}
+
+{{ image(path="branding/sponsors/SGAlogo.png", desc="SGA Logo", height=400, width=400, style="margin: auto; display: block") }}
 
 ---  
 # **Orbital Level Sponsors**
 ---
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/116322179/199862897-9b41488e-42be-4e80-aba3-47f43fa9a372.png" height = "300">
-    <img src="https://user-images.githubusercontent.com/116322179/199862949-189106e0-3bea-4a7f-85b9-a65758090e4c.png" height = "200">
-    <img src="https://user-images.githubusercontent.com/116322179/199856092-f239473f-71f0-4d6d-af68-ad396718dc98.png" width = "100%">
+{{ image(path="branding/sponsors/BlueOriginlogo.png", desc="Blue Origin Logo", height=250, style="margin: auto; display: block") }}
+{{ image(path="branding/sponsors/GSGClogo.png", desc="GSGC Logo", height=250, style="margin: auto; display: block") }}
+{{ image(path="branding/sponsors/GTMElogo.png", desc="GTME Logo", height=200, style="margin: auto; display: block") }}
+
 
 # **MR. SHI**
 ---
     
 # **Sub-Orbital Level Sponsors**
 ---
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/116322179/199863054-0cd895f9-0043-4c29-a6f3-973bf42929e9.png" height = "150">
-    <img src="https://user-images.githubusercontent.com/116322179/199863118-57a9fb68-23c6-4d0f-aae1-290b42f5c81e.png" height = "150">
-    <img src="https://user-images.githubusercontent.com/116322179/199863157-bcf89454-5c0a-497c-aec7-da25f716ba59.png" height = "150">
-    <img src="https://user-images.githubusercontent.com/116322179/199863210-c9d73227-c9ac-4b7c-b1c6-24c9a24074eb.png" height = "250">
-    <img src="https://user-images.githubusercontent.com/116322179/198419182-0759cf46-e8b0-4c0a-a92a-cf404ffc737e.png" height = "75">
+{{ image(path="branding/sponsors/NorthropGrummanlogo.png", desc="Northrop Grumman Logo", height=200,  style="margin: auto; display: block") }}
+{{ image(path="branding/sponsors/RockWestCompositeslogo.png", desc="Rock West Composites Logo", height=200,  style="margin: auto; display: block") }}
+{{ image(path="branding/sponsors/GraphiteStorelogo.png", desc="The Graphite Store Logo", height=200,  style="margin: auto; display: block") }}
+{{ image(path="branding/sponsors/ICIlogo.png", desc="ICI Logo", height=300, style="margin: auto; display: block") }}
+{{ image(path="branding/sponsors/BRBlogo.png", desc="Big Red Bee Logo", height=100, style="margin: auto; display: block") }}
 
