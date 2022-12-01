@@ -13,10 +13,8 @@ If you are representing a company, make a material donation, or wish to sponsor 
 
 # **Team Partner** 
 ---
+
 {{ image(path="branding/sponsors/hexagon.png", desc="Hexagon Logo", height=400, width=400, style="margin: auto; display: block") }}
-
-
-
     
 ---
     
@@ -30,8 +28,11 @@ If you are representing a company, make a material donation, or wish to sponsor 
 ---  
 # **Orbital Level Sponsors**
 ---
+
 {{ image(path="branding/sponsors/BlueOriginlogo.png", desc="Blue Origin Logo", height=300, style="margin: auto; display: block") }}
+
 {{ image(path="branding/sponsors/GSGClogo.png", desc="GSGC Logo", height=300, style="margin: auto; display: block") }}
+
 {{ image(path="branding/sponsors/GTMElogo.png", desc="GTME Logo", width = 500, style="margin: auto; display: block") }}
 
 
@@ -40,9 +41,14 @@ If you are representing a company, make a material donation, or wish to sponsor 
     
 # **Sub-Orbital Level Sponsors**
 ---
+
 {{ image(path="branding/sponsors/NorthropGrummanlogo.png", desc="Northrop Grumman Logo", height=250,  style="margin: auto; display: block") }}
+
 {{ image(path="branding/sponsors/RockWestCompositeslogo.png", desc="Rock West Composites Logo", height=200,  style="margin: auto; display: block") }}
+
 {{ image(path="branding/sponsors/GraphiteStorelogo.png", desc="The Graphite Store Logo", height=250,  style="margin: auto; display: block") }}
+
 {{ image(path="branding/sponsors/ICIlogo.png", desc="ICI Logo", height=50, style="margin: auto; display: block") }}
+
 {{ image(path="branding/sponsors/BRBlogo.png", desc="Big Red Bee Logo", height=300, style="margin: auto; display: block") }}
 
