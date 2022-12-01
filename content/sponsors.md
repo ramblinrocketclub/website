@@ -21,7 +21,7 @@ If you are representing a company, make a material donation, or wish to sponsor 
 # **Interplanetary Level Sponsors**
 ---
  
- {{ image(path="branding/sponsors/GTAElogo.png", desc="GTAE Logo", height=300, style="margin: auto; display: block") }}
+ {{ image(path="branding/sponsors/GTAElogo.png", desc="GTAE Logo", height=200, width = 800, style="margin: auto; display: block") }}
 
 {{ image(path="branding/sponsors/SGAlogo.png", desc="SGA Logo", height=400, width=400, style="margin: auto; display: block") }}
 
