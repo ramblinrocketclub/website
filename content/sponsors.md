@@ -29,11 +29,11 @@ If you are representing a company, make a material donation, or wish to sponsor 
 # **Orbital Level Sponsors**
 ---
 
+{{ image(path="branding/sponsors/GTMElogo.png", desc="GTME Logo", width = 500, style="margin: auto; display: block") }}
+
 {{ image(path="branding/sponsors/BlueOriginlogo.png", desc="Blue Origin Logo", height=300, style="margin: auto; display: block") }}
 
 {{ image(path="branding/sponsors/GSGClogo.png", desc="GSGC Logo", height=300, style="margin: auto; display: block") }}
-
-{{ image(path="branding/sponsors/GTMElogo.png", desc="GTME Logo", width = 500, style="margin: auto; display: block") }}
 
 
 # **MR. SHI**
