@@ -49,5 +49,5 @@ If you are representing a company, make a material donation, or wish to sponsor 
 
 {{ image(path="branding/sponsors/ICIlogo.png", desc="ICI Logo", height=50, width = 600, style="margin: auto; display: block") }}
 
-{{ image(path="branding/sponsors/BRBlogo.png", desc="Big Red Bee Logo", height=200, width = 400, style="margin: auto; display: block") }}
+{{ image(path="branding/sponsors/BRBlogo.png", desc="Big Red Bee Logo", height=200, width = 300, style="margin: auto; display: block") }}
 
