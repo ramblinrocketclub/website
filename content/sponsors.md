@@ -23,7 +23,7 @@ If you are representing a company, make a material donation, or wish to sponsor 
  
  {{ image(path="branding/sponsors/GTAElogo.png", desc="GTAE Logo", height=100, width = 800, style="margin: auto; display: block") }}
 
-{{ image(path="branding/sponsors/SGAlogo.png", desc="SGA Logo", height=400, width=400, style="margin: auto; display: block") }}
+{{ image(path="branding/sponsors/SGAlogo.png", desc="SGA Logo", height = 300, width=300, style="margin: auto; display: block") }}
 
 ---  
 # **Orbital Level Sponsors**
