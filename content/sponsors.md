@@ -29,7 +29,7 @@ If you are representing a company, make a material donation, or wish to sponsor 
 # **Orbital Level Sponsors**
 ---
 
-{{ image(path="branding/sponsors/GTMElogo.png", desc="GTME Logo", height = 150, width = 900, style="margin: auto; display: block") }}
+{{ image(path="branding/sponsors/GTMElogo.png", desc="GTME Logo", height = 125, width = 850, style="margin: auto; display: block") }}
 
 {{ image(path="branding/sponsors/GSGClogo.png", desc="GSGC Logo", height=300, width = 600, style="margin: auto; display: block") }}
 
