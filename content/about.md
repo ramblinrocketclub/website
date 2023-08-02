@@ -27,4 +27,4 @@ Linkedin & Facebook: Ramblin' Rocket Club
 - High Altitude Ballooning (HAB): Robert Lammens
 - Guidance, Navigation and Controls (GNC) - Margaret Hwang and Atharva Gujrathi
 
-## Advisor: Dr. Edgar Lightsey
+## Advisor: Dr. Wenting Sun
