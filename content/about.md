@@ -13,17 +13,18 @@ Instagram: @ramblinrocketclub
 
 Linkedin & Facebook: Ramblin' Rocket Club
 
-# Executive Board
+# RRC Executive Board
 
-- President: Sajni Saravanan
-- Vice President: Aaron Boyd
+- President: Bri Mayor
+- Vice President: Sana Churi
 - Treasurer: Jake Shaw
-- Secretary: Adit Sachde
+- Secretary: Shalini Shailesh
+- PR Chair: Saniya Kulkarni
 
-## Team Leads
-- Georgia Tech Experimental Rocketry (GTXR): Nicholas Brophy and Joey Gemini - (gtxr.club@gmail.com)
-- High Power Rocketry (HPR): Lucas Luwa
-- High Altitude Ballooning (HAB): Spencer Ballus - (sballus@gatech.edu)
-- Undergraduate Student Launch Initiative (USLI): Andrew Trimper - (andrew.trimper@gatech.edu)
+## Team Presidents
+- Georgia Tech Experimental Rocketry (GTXR): Alfonso Lagares and Connor Johnson - (gtxr.club@gmail.com)
+- High Power Rocketry (HPR): Lucas Luwa and Banglue Wei
+- High Altitude Ballooning (HAB): Robert Lammens - (sballus@gatech.edu)
+- Guidance, Navigation and Controls (GNC) - Margaret Hwang and Atharva Gujrathi
 
 ## Advisor: Dr. Edgar Lightsey
