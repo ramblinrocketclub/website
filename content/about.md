@@ -24,7 +24,7 @@ Linkedin & Facebook: Ramblin' Rocket Club
 ## Team Presidents
 - Georgia Tech Experimental Rocketry (GTXR): Alfonso Lagares and Connor Johnson - (gtxr.club@gmail.com)
 - High Power Rocketry (HPR): Lucas Luwa and Banglue Wei
-- High Altitude Ballooning (HAB): Robert Lammens - (sballus@gatech.edu)
+- High Altitude Ballooning (HAB): Robert Lammens
 - Guidance, Navigation and Controls (GNC) - Margaret Hwang and Atharva Gujrathi
 
 ## Advisor: Dr. Edgar Lightsey
