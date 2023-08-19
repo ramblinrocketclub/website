@@ -14,3 +14,13 @@ First time building a rocket? No problem! Bring your enthusiasm and we’ll teac
 We attend several launches each year to provide all our students the opportunity to launch their creations. Expect to see us at HARA, ROSCO, and SEARS launches located across Alabama, Georgia and South Carolina! Hope to see you there! 
 
 Find out more about high powered rocketry certifications at https://www.nar.org/
+
+# Current and Past Leadership
+# 2023 - 2024
+- Co-Presidents: Lucas Luwa and Banglue Wei
+# 2022 - 2021
+- Co-Presidents: Lucas Luwa and Banglue Wei
+# 2021 - 2020
+- President: Lucas Luwa
+# 2020 - 2021 
+- President: Stacey Tian 
