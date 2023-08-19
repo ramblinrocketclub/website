@@ -15,8 +15,9 @@ We attend several launches each year to provide all our students the opportunity
 
 Find out more about high powered rocketry certifications at https://www.nar.org/
 
+Feel free to reach out to us at gatech.hpr@gmail.com!
+
 # Current and Past Leadership
-- Feel free to reach out to us at gatech.hpr@gmail.com!
 # 2023 - 2024
 - Co-Presidents: Lucas Luwa and Banglue Wei
 # 2022 - 2021
