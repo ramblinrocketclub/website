@@ -21,7 +21,7 @@ Linkedin & Facebook: Ramblin' Rocket Club
 
 ## High Powered Rocketry
 
-High Power Rocketry focuses on helping students at Georgia Tech build and launch their own high power rockets and obtain certifications from the National Association of Rocketry and Tripoli organizations. Students get the unique opportunity to work with all parts of rockets including structures, avionics and recovery. This allows students to be well versed in all parts of rocket manufacturing and allows them to partake in creative endeavors. High powered rockets frequently fly anywhere between 5,000 to 15,000 feet and range anywhere from 4' to 10' tall! 
+High Power Rocketry focuses on helping students at Georgia Tech build and launch their own high power rockets and obtain certifications from the National Association of Rocketry and Tripoli organizations. Students get the unique opportunity to work with all parts of rockets including structures, avionics and recovery. This allows students to be well versed in all parts of rocket manufacturing and provides them the skills needed partake in creative design endeavors. High powered rockets frequently fly anywhere between 5,000 to 15,000 feet and range anywhere from 4' to 10' tall! 
 
 ## Georgia Tech Experimental Rocketry
 
