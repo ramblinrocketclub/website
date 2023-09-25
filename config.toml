@@ -18,7 +18,7 @@ header = 'branding/header.png'
 
 slack_invite = "https://ramblin-rocket-club.slack.com/"
 
-dropdown = ["Divisions"]
+dropdown = ["Teams"]
 links = [
     { title = "Slack", link = "https://ramblin-rocket-club.slack.com/"},
     { title = "Mailing List", link = "https://lists.gatech.edu/sympa/subscribe/gtrc" }
