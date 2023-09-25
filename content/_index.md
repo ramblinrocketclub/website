@@ -29,7 +29,7 @@ Georgia Tech Experimental Rocketry (GTXR) flies the largest rockets at Georgia T
 
 ## High Altitude Balloon
 
-The High-Altitude Balloons team has the highest-flying and longest-running flights at Georgia Tech! The HAB team launches space weather balloons with complex payloads built by students and offers a safe research platform for labs around Georgia Tech to test components at high altitudes.
+The High-Altitude Balloons team has the highest-flying and longest-running flights at Georgia Tech! HAB launches space weather balloons with complex payloads built by students and offers a safe research platform for labs around Georgia Tech to test components at high altitudes.
 
 ## GNC
 

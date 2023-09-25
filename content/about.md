@@ -22,7 +22,7 @@ Linkedin & Facebook: Ramblin' Rocket Club
 - PR Chair: Saniya Kulkarni
 - Membership Chair: Michael Peña
 
-## Team Presidents
+## Division Presidents
 - Georgia Tech Experimental Rocketry (GTXR): Alfonso Lagares and Connor Johnson - (gtxr.club@gmail.com)
 - High Power Rocketry (HPR): Lucas Luwa and Banglue Wei - (gatech.hpr@gmail.com)
 - High Altitude Ballooning (HAB): Robert Lammens
