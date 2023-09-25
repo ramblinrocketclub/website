@@ -24,7 +24,7 @@ Linkedin & Facebook: Ramblin' Rocket Club
 
 ## Division Presidents
 - Georgia Tech Experimental Rocketry (GTXR): Alfonso Lagares and Connor Johnson - (gtxr.club@gmail.com)
-- High Power Rocketry (HPR): Lucas Luwa and Banglue Wei - (gatech.hpr@gmail.com)
+- Georgia Tech High Power Rocketry (HPR): Lucas Luwa and Banglue Wei - (gatech.hpr@gmail.com)
 - High Altitude Ballooning (HAB): Robert Lammens
 - Guidance, Navigation and Controls (GNC) - Margaret Hwang and Atharva Gujrathi
 
