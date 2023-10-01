@@ -13,7 +13,7 @@ First time building a rocket? No problem! Bring your enthusiasm and we’ll teac
 
 We attend several launches each year to provide all our students the opportunity to launch their creations. Expect to see us at HARA, ROSCO, and SEARS launches located across Alabama, Georgia and South Carolina! Hope to see you there! 
 
-Find out more about high powered rocketry certifications at https://www.nar.org/
+Find out more about high powered rocketry certifications at https://www.nar.org/ or https://www.tripoli.org/
 
 Feel free to reach out to us at gatech.hpr@gmail.com!
 
