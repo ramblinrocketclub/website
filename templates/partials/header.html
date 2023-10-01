@@ -18,7 +18,8 @@
                 <button class="dropdown-button nav-item subtitle-text" style="margin: 0;">
                     {{ dropdown }}
                 </button>
-                {% set section_path = dropdown ~ "/_index.md" | lower %}
+                <!-- {% set section_path = dropdown ~ "/_index.md" | lower %} -->
+                {% set section_apth = "/teams._index.md" | lower %}
                 {% set section = get_section(path=section_path) %}
                 <div class="dropdown-content">
                 {% for page in section.pages %}
