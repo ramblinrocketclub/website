@@ -16,7 +16,8 @@
         {% for dropdown in config.extra.dropdown %}
             <div class="dropdown subtitle-text nav-item">
                 <button class="dropdown-button nav-item subtitle-text" style="margin: 0;">
-                    {{ dropdown }}
+                    <!-- {{ dropdown }} -->
+                    TEAMS
                 </button>
                 {% set section_path = dropdown ~ "/_index.md" | lower %}
                 {% set section = get_section(path=section_path) %}
