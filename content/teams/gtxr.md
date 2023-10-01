@@ -13,3 +13,11 @@ Georgia Tech Experimental Rocketry (GTXR) flies the largest rockets at Georgia T
 GTXR welcomes students of all majors and levels of experience.  The only requirements are a passion for rocketry and an interest in solving the complex engineering challenges this team faces.  Our subteams include structures, propulsion, avionics, simulations, and procurement.  GTXR is always look for new members who want to become better engineers and contribute to these awesome projects.  Come to a meeting or reach out through our email to learn more!
 
 Please direct any questions to gtxr.club@gmail.com.  Project updates and major milestones will be shared on the team Instagram: @gt_xr.
+
+# Current and Past Leadership
+# 2023 - 2024
+- Co-Presidents: Alfonso Lagares and Connor Johnson
+# 2022 - 2021
+- Co-Presidents: Joey Gemini and Griffin Jourda
+# 2021 - 2020
+- Co-Presidents: Joey Gemini and Nicholas Brophy
