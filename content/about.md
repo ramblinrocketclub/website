@@ -15,12 +15,11 @@ Linkedin & Facebook: Ramblin' Rocket Club
 
 # RRC Executive Board
 
-- President: Bri Mayor
-- Vice President: Sana Churi
+- President: Sana Churi
+- Vice President: Michael Peña
 - Treasurer: Jake Shaw
 - Secretary: Shalini Shailesh
 - PR Chair: Saniya Kulkarni
-- Membership Chair: Michael Peña
 
 ## Division Presidents
 - Georgia Tech Experimental Rocketry (GTXR): Alfonso Lagares and Connor Johnson - (gtxr.club@gmail.com)
