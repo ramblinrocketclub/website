@@ -18,7 +18,7 @@ HAB hopes to mature their program and offer a safe research platform for labs ar
 # Current and Past Leadership
 # 2023 - 2024
 - President: Robert Lammens
-# 2022 - 2021
+# 2022 - 2023
 - President: Kieran Black
-# 2021 - 2020
+# 2021 - 2022
 - President: Kieran Black

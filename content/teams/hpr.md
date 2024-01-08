@@ -20,7 +20,7 @@ Feel free to reach out to us at gatech.hpr@gmail.com!
 # Current and Past Leadership
 # 2023 - 2024
 - Co-Presidents: Lucas Luwa and Banglue Wei
-# 2022 - 2021
+# 2022 - 2023
 - Co-Presidents: Lucas Luwa and Banglue Wei
 # 2021 - 2020
 - President: Lucas Luwa

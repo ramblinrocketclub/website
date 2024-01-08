@@ -33,4 +33,4 @@ The High-Altitude Balloons team has the highest-flying and longest-running fligh
 
 ## GNC
 
-Coming Soon!
+The Guidance, Navigation, and Control team at Ramblin’ Rocket Club flies large-scale rockets that introduce active control methods into the flight plan. Using various methods such as canards, gimballed thrust-vector, and jet-vanes, GNC aims to establish a high-powered rocket with precise maneuverability, building the blocks for future missions including controlled landing. With an intense focus on research and development, students gain critical skills in designing, testing, and manufacturing in a novel field.

@@ -17,7 +17,7 @@ Please direct any questions to gtxr.club@gmail.com.  Project updates and major m
 # Current and Past Leadership
 # 2023 - 2024
 - Co-Presidents: Alfonso Lagares and Connor Johnson
-# 2022 - 2021
+# 2022 - 2023
 - Co-Presidents: Joey Gemini and Griffin Jourda
-# 2021 - 2020
+# 2021 - 2022
 - Co-Presidents: Joey Gemini and Nicholas Brophy
