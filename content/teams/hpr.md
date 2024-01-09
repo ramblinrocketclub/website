@@ -22,7 +22,7 @@ Feel free to reach out to us at gatech.hpr@gmail.com!
 - Co-Presidents: Lucas Luwa and Banglue Wei
 # 2022 - 2023
 - Co-Presidents: Lucas Luwa and Banglue Wei
-# 2021 - 2020
+# 2021 - 2022
 - President: Lucas Luwa
 # 2020 - 2021 
 - President: Stacey Tian 
