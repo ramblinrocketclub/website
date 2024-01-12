@@ -5,7 +5,7 @@ description = "High Altitude Balloons | HAB"
 weight = 3
 +++
 
-{{ image(path="teams/hab/High Altitude Balloon Launch March 2019.jpg", desc="Photo taken by HAB during the Mach 2019 Launch")}}
+{{ image(path="divisions/hab/High Altitude Balloon Launch March 2019.jpg", desc="Photo taken by HAB during the Mach 2019 Launch")}}
 
 # Georgia Tech’s Highest Flying Team!
  
