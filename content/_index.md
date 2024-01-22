@@ -4,7 +4,7 @@ background = "home/header.jpg"
 logo = "branding/header.png"
 show_toc = false
 heading = "Georgia Tech’s Premier Student Rocketry Organization"
-subheading = "Meetings at 6:30 pm Thursdays at Guggenhiem 442"
+subheading = "Meeting time and location TBD. Join our slack for more info!"
 hero = "branding/logo.png"
 
 content_title = "What is Ramblin' Rocket Club?"
