@@ -1,0 +1,53 @@
+<!DOCTYPE html><html lang=en><head><meta charset=UTF-8><meta name=viewport content="height=device-height, initial-scale=1"><title>GTXR | </title><meta name=viewport content="width=device-width, initial-scale=1, shrink-to-fit=no"><style>
+    :root {
+        /* Primary theme color */
+        --primary-color: #BFB37C;
+        /* Primary theme text color */
+        --primary-text-color: #003057;
+        /* Primary theme link color */
+        --primary-link-color: #857437;
+        /* Secondary color: the background body color */
+        --secondary-color: #fcfaf6;
+        --secondary-text-color: #303030;
+        /* Highlight text color of table of content */
+        --toc-highlight-text-color: #d46e13;
+        /* Header -- Navy blue */
+        --header-background: #003057;
+        --header-text-color: #BFB37C;
+    }
+</style><link href=https://fonts.googleapis.com/css?family=Alfa+Slab+One&display=swap rel=stylesheet><link href=https://fonts.googleapis.com/css?family=Fira+Sans:400,500,600&display=swap rel=stylesheet><link rel=stylesheet href=/normalize.css><link rel=stylesheet href=https://rocketry.gatech.edu/base.css><body><header class=box-shadow><a href=https://rocketry.gatech.edu/> <div class=logo><img src=https://rocketry.gatech.edu/branding/header.png alt=logo></div> </a><nav><a class="nav-item subtitle-text"href=https://rocketry.gatech.edu/sponsors/>Sponsors</a><a class="nav-item subtitle-text"href=https://rocketry.gatech.edu/about/>About</a><div class="dropdown subtitle-text nav-item"><button class="dropdown-button nav-item subtitle-text"style="margin: 0;">Divisions</button><div class=dropdown-content><a class="nav-item subtitle-text"style="margin: 0;"href=https://rocketry.gatech.edu/divisions/gtxr/>GTXR</a><a class="nav-item subtitle-text"style="margin: 0;"href=https://rocketry.gatech.edu/divisions/hpr/>HPR</a><a class="nav-item subtitle-text"style="margin: 0;"href=https://rocketry.gatech.edu/divisions/hab/>HAB</a><a class="nav-item subtitle-text"style="margin: 0;"href=https://rocketry.gatech.edu/divisions/gnc/>GNC</a></div></div><a class="nav-item subtitle-text"href=https://ramblin-rocket-club.slack.com/>Slack</a><a class="nav-item subtitle-text"href=https://lists.gatech.edu/sympa/subscribe/gtrc>Mailing List</a></nav></header><main><div class="content text"><div class=heading-text>Georgia Tech Experimental Rocketry | GTXR</div><img src=https://rocketry.gatech.edu/divisions/gtxr/teamphoto.jpg alt="Team photo"><h1 id=georgia-tech-s-biggest-rocket>Georgia Tech’s Biggest Rocket!</h1><p>Georgia Tech Experimental Rocketry (GTXR) flies the largest rockets at Georgia Tech with the ultimate goal of becoming the first college team to fly a two-stage rocket to the edge of space! In their first year, this team won the COTS category of the 2019 Spaceport America Cup competition with a nominal two-stage flight to 30,000ft. From 2019 through 2021, the team designed a SRAD two stage, payload-carrying vehicle along with our own SRAD solid rocket motors. Named "Rubberband Man" and shooting for 30,000 feet, this vehicle was flown out of the Mojave Desert, CA in the summer of 2021. GTXR is aiming even higher for the coming school year after the success of Rubberband Man. With a target altitude of 100,000 feet, "Mr. Blue Sky" will use two student developed P-class solid rocket motors and a new staging system. Mr. Blue Sky is slated to fly in the summer of 2022--kicking off the next leg of their journey to the Karman Line.<p>GTXR welcomes students of all majors and levels of experience. The only requirements are a passion for rocketry and an interest in solving the complex engineering challenges this team faces. Our subteams include structures, propulsion, avionics, simulations, and procurement. GTXR is always look for new members who want to become better engineers and contribute to these awesome projects. Come to a meeting or reach out through our email to learn more!<p>Please direct any questions to gtxr.club@gmail.com. Project updates and major milestones will be shared on the team Instagram: @gt_xr.<h1 id=current-and-past-leadership>Current and Past Leadership</h1><h1 id=2023-2024>2023 - 2024</h1><ul><li>Co-Presidents: Alfonso Lagares and Connor Johnson</ul><h1 id=2022-2023>2022 - 2023</h1><ul><li>Co-Presidents: Joey Gemini and Griffin Jourda</ul><h1 id=2021-2022>2021 - 2022</h1><ul><li>Co-Presidents: Joey Gemini and Nicholas Brophy</ul></div></main><footer><small class=subtext> Ramblin' Rocket Club © 2024 </small></footer></body><script>
+    function highlightNav(heading) {
+      let pathname = location.pathname;
+      document.querySelectorAll(".toc a").forEach((item) => {
+        item.classList.remove("active");
+      });
+      document
+        .querySelector(".toc a[href$='" + pathname + "#" + heading + "']")
+        .classList.add("active");
+    }
+
+    let currentHeading = "";
+    window.onscroll = function () {
+      let h = document.querySelectorAll("h1,h2,h3,h4,h5,h6");
+      let elementArr = [];
+
+      h.forEach((item) => {
+        if (item.id !== "") {
+          elementArr[item.id] = item.getBoundingClientRect().top;
+        }
+      });
+      elementArr.sort();
+      for (let key in elementArr) {
+        if (!elementArr.hasOwnProperty(key)) {
+          continue;
+        }
+        if (elementArr[key] > 0 && elementArr[key] < 300) {
+          if (currentHeading !== key) {
+            highlightNav(key);
+            currentHeading = key;
+          }
+          break;
+        }
+      }
+    };
+  </script>

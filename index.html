@@ -1,0 +1,66 @@
+<!DOCTYPE html><html lang=en><head><meta charset=UTF-8><meta name=viewport content="height=device-height, initial-scale=1"><title></title><meta name=viewport content="width=device-width, initial-scale=1, shrink-to-fit=no"><style>
+    :root {
+        /* Primary theme color */
+        --primary-color: #BFB37C;
+        /* Primary theme text color */
+        --primary-text-color: #003057;
+        /* Primary theme link color */
+        --primary-link-color: #857437;
+        /* Secondary color: the background body color */
+        --secondary-color: #fcfaf6;
+        --secondary-text-color: #303030;
+        /* Highlight text color of table of content */
+        --toc-highlight-text-color: #d46e13;
+        /* Header -- Navy blue */
+        --header-background: #003057;
+        --header-text-color: #BFB37C;
+    }
+</style><link href=https://fonts.googleapis.com/css?family=Alfa+Slab+One&display=swap rel=stylesheet><link href=https://fonts.googleapis.com/css?family=Fira+Sans:400,500,600&display=swap rel=stylesheet><link rel=stylesheet href=/normalize.css><link rel=stylesheet href=https://rocketry.gatech.edu/base.css><body><header class=pos-absolute><a href=https://rocketry.gatech.edu/> <div class=logo><img src=https://rocketry.gatech.edu/branding/header.png alt=logo></div> </a><nav><a class="nav-item subtitle-text"href=https://rocketry.gatech.edu/sponsors/>Sponsors</a><a class="nav-item subtitle-text"href=https://rocketry.gatech.edu/about/>About</a><div class="dropdown subtitle-text nav-item"><button class="dropdown-button nav-item subtitle-text"style="margin: 0;">Divisions</button><div class=dropdown-content><a class="nav-item subtitle-text"style="margin: 0;"href=https://rocketry.gatech.edu/divisions/gtxr/>GTXR</a><a class="nav-item subtitle-text"style="margin: 0;"href=https://rocketry.gatech.edu/divisions/hpr/>HPR</a><a class="nav-item subtitle-text"style="margin: 0;"href=https://rocketry.gatech.edu/divisions/hab/>HAB</a><a class="nav-item subtitle-text"style="margin: 0;"href=https://rocketry.gatech.edu/divisions/gnc/>GNC</a></div></div><a class="nav-item subtitle-text"href=https://ramblin-rocket-club.slack.com/>Slack</a><a class="nav-item subtitle-text"href=https://lists.gatech.edu/sympa/subscribe/gtrc>Mailing List</a></nav></header><div class=hero><section class=text-center><h1 class=heading-text style="font-size: 50px">Georgia Tech’s Premier Student Rocketry Organization</h1><h3 class=title-text>Meeting time and location TBD. Join our slack for more info!</h3><div><a class=github-button href=https://ramblin-rocket-club.slack.com/ data-size=large data-show-count=true aria-label="Join our Slack!"> <img src=https://rocketry.gatech.edu/branding/slack.svg height=75 alt=logo></a></div></section><img class=hero-image style="width: 35%"src=https://rocketry.gatech.edu/branding/logo.png><div class="explore-more text"onclick="document.getElementById('features').scrollIntoView({behavior: 'smooth'})">Explore More ⇩</div><style>
+        .hero section {
+          padding: 0 5rem;
+        }
+        @media screen and (max-width: 768px) {
+          .hero section {
+            padding: 0 2rem;
+          }
+
+          .hero-image {
+            display: none;
+          }
+        }
+      </style></div><main><div class="content text"><div id=features class=heading-text>What is Ramblin' Rocket Club?</div><p>The Ramblin’ Rocket Club (NAR Section 701 - GTRC) is one of the biggest student-led organizations in Georgia Tech’s School of Aerospace Engineering. Our active membership consists of over 100 BS, MS, and Ph.D. students working on a diverse set of projects, ranging from competitive rocketry to high altitude balloons for cube-satellite research.<h1 id=contact-us>Contact Us!</h1><p>Email: ramblinrocketclub@gmail.com<p>Instagram: @ramblinrocketclub<p>Linkedin & Facebook: Ramblin' Rocket Club<h2 id=georgia-tech-high-powered-rocketry>Georgia Tech High Powered Rocketry</h2><p>Georgia Tech High Power Rocketry focuses on helping students build and launch their own high power rockets and obtain certifications from the National Association of Rocketry and Tripoli organizations. Students get the unique opportunity to collaborate with other students while working with all parts of rockets including structures, avionics and recovery. This allows students to be well versed in all parts of rocket manufacturing and provides them the skills needed partake in creative design endeavors. Our high powered rockets frequently fly anywhere between 5,000 to 15,000 feet and range anywhere from 4' to 10' tall!<h2 id=georgia-tech-experimental-rocketry>Georgia Tech Experimental Rocketry</h2><p>Georgia Tech Experimental Rocketry (GTXR) flies the largest rockets at Georgia Tech with the ultimate goal of becoming the first college team to fly a two-stage rocket to the edge of space! With a target altitude of 100,000 feet, their next rocket "Mr. Blue Sky" will use two student developed P-class solid rocket motors and a new staging system. Mr. Blue Sky is slated to fly in the summer of 2022--kicking off the next leg of their journey to the Karman Line.<h2 id=high-altitude-balloon>High Altitude Balloon</h2><p>The High-Altitude Balloons team has the highest-flying and longest-running flights at Georgia Tech! HAB launches space weather balloons with complex payloads built by students and offers a safe research platform for labs around Georgia Tech to test components at high altitudes.<h2 id=gnc>GNC</h2><p>The Guidance, Navigation, and Control team at Ramblin’ Rocket Club flies large-scale rockets that introduce active control methods into the flight plan. Using various methods such as canards, gimballed thrust-vector, and jet-vanes, GNC aims to establish a high-powered rocket with precise maneuverability, building the blocks for future missions including controlled landing. With an intense focus on research and development, students gain critical skills in designing, testing, and manufacturing in a novel field.</div></main><footer><small class=subtext> Ramblin' Rocket Club © 2024 </small></footer></body><script>
+    function highlightNav(heading) {
+      let pathname = location.pathname;
+      document.querySelectorAll(".toc a").forEach((item) => {
+        item.classList.remove("active");
+      });
+      document
+        .querySelector(".toc a[href$='" + pathname + "#" + heading + "']")
+        .classList.add("active");
+    }
+
+    let currentHeading = "";
+    window.onscroll = function () {
+      let h = document.querySelectorAll("h1,h2,h3,h4,h5,h6");
+      let elementArr = [];
+
+      h.forEach((item) => {
+        if (item.id !== "") {
+          elementArr[item.id] = item.getBoundingClientRect().top;
+        }
+      });
+      elementArr.sort();
+      for (let key in elementArr) {
+        if (!elementArr.hasOwnProperty(key)) {
+          continue;
+        }
+        if (elementArr[key] > 0 && elementArr[key] < 300) {
+          if (currentHeading !== key) {
+            highlightNav(key);
+            currentHeading = key;
+          }
+          break;
+        }
+      }
+    };
+  </script>

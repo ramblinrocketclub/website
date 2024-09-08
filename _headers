@@ -1,0 +1,5 @@
+# This file is used to make sure that CF pages is not indexed.
+# Do not change without understanding how SEO and Cloudflare Pages work.
+
+https://:project.pages.dev/*
+  X-Robots-Tag: noindex

@@ -1,0 +1,53 @@
+<!DOCTYPE html><html lang=en><head><meta charset=UTF-8><meta name=viewport content="height=device-height, initial-scale=1"><title>HPR | </title><meta name=viewport content="width=device-width, initial-scale=1, shrink-to-fit=no"><style>
+    :root {
+        /* Primary theme color */
+        --primary-color: #BFB37C;
+        /* Primary theme text color */
+        --primary-text-color: #003057;
+        /* Primary theme link color */
+        --primary-link-color: #857437;
+        /* Secondary color: the background body color */
+        --secondary-color: #fcfaf6;
+        --secondary-text-color: #303030;
+        /* Highlight text color of table of content */
+        --toc-highlight-text-color: #d46e13;
+        /* Header -- Navy blue */
+        --header-background: #003057;
+        --header-text-color: #BFB37C;
+    }
+</style><link href=https://fonts.googleapis.com/css?family=Alfa+Slab+One&display=swap rel=stylesheet><link href=https://fonts.googleapis.com/css?family=Fira+Sans:400,500,600&display=swap rel=stylesheet><link rel=stylesheet href=/normalize.css><link rel=stylesheet href=https://rocketry.gatech.edu/base.css><body><header class=box-shadow><a href=https://rocketry.gatech.edu/> <div class=logo><img src=https://rocketry.gatech.edu/branding/header.png alt=logo></div> </a><nav><a class="nav-item subtitle-text"href=https://rocketry.gatech.edu/sponsors/>Sponsors</a><a class="nav-item subtitle-text"href=https://rocketry.gatech.edu/about/>About</a><div class="dropdown subtitle-text nav-item"><button class="dropdown-button nav-item subtitle-text"style="margin: 0;">Divisions</button><div class=dropdown-content><a class="nav-item subtitle-text"style="margin: 0;"href=https://rocketry.gatech.edu/divisions/gtxr/>GTXR</a><a class="nav-item subtitle-text"style="margin: 0;"href=https://rocketry.gatech.edu/divisions/hpr/>HPR</a><a class="nav-item subtitle-text"style="margin: 0;"href=https://rocketry.gatech.edu/divisions/hab/>HAB</a><a class="nav-item subtitle-text"style="margin: 0;"href=https://rocketry.gatech.edu/divisions/gnc/>GNC</a></div></div><a class="nav-item subtitle-text"href=https://ramblin-rocket-club.slack.com/>Slack</a><a class="nav-item subtitle-text"href=https://lists.gatech.edu/sympa/subscribe/gtrc>Mailing List</a></nav></header><main><div class="content text"><div class=heading-text>Georgia Tech High Power Rocketry | HPR</div><h1 id=build-your-own-rocket>Build Your Own Rocket!</h1><p>Georgia Tech High Power Rocketry is a group focused on assisting students with designing and launching their own high powered rockets. Students collaborate with each other on designs and work to obtain certifications from both the National Association of Rocketry and Tripoli organizations.<p>First time building a rocket? No problem! Bring your enthusiasm and we’ll teach you how to do the rest. Students will learn to use simulations and design software to create their rockets. Students will also have the opportunity to apply rocketry concepts such as stability, thrust-to-weight ratios and get hands-on experience manufacturing with their Level 1 rockets. At Level 2, we help students build more complex vehicles that typically include electronics, and may include more advanced materials such as fiberglass or carbon fiber. At Level 3, the final level for the NAR, students can create a written report that documents their process in building and designing a large high powered rocket. Rockets at this level will include electronics and utilize multiple advanced materials that can withstand the forces on the rocket.<p>We attend several launches each year to provide all our students the opportunity to launch their creations. Expect to see us at HARA, ROSCO, and SEARS launches located across Alabama, Georgia and South Carolina! Hope to see you there!<p>Find out more about high powered rocketry certifications at https://www.nar.org/ or https://www.tripoli.org/<p>Feel free to reach out to us at gatech.hpr@gmail.com!<h1 id=current-and-past-leadership>Current and Past Leadership</h1><h1 id=2023-2024>2023 - 2024</h1><ul><li>Co-Presidents: Lucas Luwa and Banglue Wei</ul><h1 id=2022-2023>2022 - 2023</h1><ul><li>Co-Presidents: Lucas Luwa and Banglue Wei</ul><h1 id=2021-2022>2021 - 2022</h1><ul><li>President: Lucas Luwa</ul><h1 id=2020-2021>2020 - 2021</h1><ul><li>President: Stacey Tian</ul></div></main><footer><small class=subtext> Ramblin' Rocket Club © 2024 </small></footer></body><script>
+    function highlightNav(heading) {
+      let pathname = location.pathname;
+      document.querySelectorAll(".toc a").forEach((item) => {
+        item.classList.remove("active");
+      });
+      document
+        .querySelector(".toc a[href$='" + pathname + "#" + heading + "']")
+        .classList.add("active");
+    }
+
+    let currentHeading = "";
+    window.onscroll = function () {
+      let h = document.querySelectorAll("h1,h2,h3,h4,h5,h6");
+      let elementArr = [];
+
+      h.forEach((item) => {
+        if (item.id !== "") {
+          elementArr[item.id] = item.getBoundingClientRect().top;
+        }
+      });
+      elementArr.sort();
+      for (let key in elementArr) {
+        if (!elementArr.hasOwnProperty(key)) {
+          continue;
+        }
+        if (elementArr[key] > 0 && elementArr[key] < 300) {
+          if (currentHeading !== key) {
+            highlightNav(key);
+            currentHeading = key;
+          }
+          break;
+        }
+      }
+    };
+  </script>

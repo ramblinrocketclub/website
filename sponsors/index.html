@@ -1,0 +1,53 @@
+<!DOCTYPE html><html lang=en><head><meta charset=UTF-8><meta name=viewport content="height=device-height, initial-scale=1"><title>Sponsors | </title><meta name=viewport content="width=device-width, initial-scale=1, shrink-to-fit=no"><style>
+    :root {
+        /* Primary theme color */
+        --primary-color: #BFB37C;
+        /* Primary theme text color */
+        --primary-text-color: #003057;
+        /* Primary theme link color */
+        --primary-link-color: #857437;
+        /* Secondary color: the background body color */
+        --secondary-color: #fcfaf6;
+        --secondary-text-color: #303030;
+        /* Highlight text color of table of content */
+        --toc-highlight-text-color: #d46e13;
+        /* Header -- Navy blue */
+        --header-background: #003057;
+        --header-text-color: #BFB37C;
+    }
+</style><link href=https://fonts.googleapis.com/css?family=Alfa+Slab+One&display=swap rel=stylesheet><link href=https://fonts.googleapis.com/css?family=Fira+Sans:400,500,600&display=swap rel=stylesheet><link rel=stylesheet href=/normalize.css><link rel=stylesheet href=https://rocketry.gatech.edu/base.css><body><header class=box-shadow><a href=https://rocketry.gatech.edu/> <div class=logo><img src=https://rocketry.gatech.edu/branding/header.png alt=logo></div> </a><nav><a class="nav-item subtitle-text"href=https://rocketry.gatech.edu/sponsors/>Sponsors</a><a class="nav-item subtitle-text"href=https://rocketry.gatech.edu/about/>About</a><div class="dropdown subtitle-text nav-item"><button class="dropdown-button nav-item subtitle-text"style="margin: 0;">Divisions</button><div class=dropdown-content><a class="nav-item subtitle-text"style="margin: 0;"href=https://rocketry.gatech.edu/divisions/gtxr/>GTXR</a><a class="nav-item subtitle-text"style="margin: 0;"href=https://rocketry.gatech.edu/divisions/hpr/>HPR</a><a class="nav-item subtitle-text"style="margin: 0;"href=https://rocketry.gatech.edu/divisions/hab/>HAB</a><a class="nav-item subtitle-text"style="margin: 0;"href=https://rocketry.gatech.edu/divisions/gnc/>GNC</a></div></div><a class="nav-item subtitle-text"href=https://ramblin-rocket-club.slack.com/>Slack</a><a class="nav-item subtitle-text"href=https://lists.gatech.edu/sympa/subscribe/gtrc>Mailing List</a></nav></header><main><div class="content text"><div class=heading-text>Sponsors</div><p>The Ramblin’ Rocket Club is funded through generous sponsorships and donations that help us purchase materials and fund our research and travel. These companies and individuals power us to give students hands-on technical and teamwork experience they need to become incredible engineers and leaders before entering the workforce. If you are interested in supporting us to continue this mission, please consider donating through this button:<h4 id=donate-now><a href=https://epay.gatech.edu/C20793_ustores/web/product_detail.jsp?PRODUCTID=5070><strong>Donate Now</strong></a></h4><p>If you are representing a company, make a material donation, or wish to sponsor Ramblin’ Rocket Club, please contact us here:<h4 id=contact-us><a href=mailto:ramblinrocketclub@gmail.com><strong>Contact Us!</strong></a></h4><hr><h1 id=team-partner><strong>Team Partner</strong></h1><hr><img src=https://rocketry.gatech.edu/processed_images/77582dd114fd3db000.png alt="Hexagon Logo"width=500 height=500 style="margin: auto; display: block"><hr><h1 id=interplanetary-level-sponsors><strong>Interplanetary Level Sponsors</strong></h1><hr><img src=https://rocketry.gatech.edu/processed_images/f8509bd8ed37c51400.png alt="GTAE Logo"width=800 height=100 style="margin: auto; display: block"><img src=https://rocketry.gatech.edu/processed_images/e42b03474a6dea6800.png alt="SGA Logo"width=300 height=300 style="margin: auto; display: block"><hr><h1 id=orbital-level-sponsors><strong>Orbital Level Sponsors</strong></h1><hr><img src=https://rocketry.gatech.edu/processed_images/2ee0fb9a94e9d54600.png alt="GTME Logo"width=850 height=125 style="margin: auto; display: block"><img src=https://rocketry.gatech.edu/processed_images/b4710dc2b11a656600.png alt="GSGC Logo"width=600 height=300 style="margin: auto; display: block"><img src=https://rocketry.gatech.edu/processed_images/8423541970291bab00.png alt="Blue Origin Logo"width=700 height=300 style="margin: auto; display: block"><h1 id=mr-shi><strong>MR. SHI</strong></h1><hr><h1 id=sub-orbital-level-sponsors><strong>Sub-Orbital Level Sponsors</strong></h1><hr><img src=https://rocketry.gatech.edu/branding/sponsors/NorthropGrummanlogo.png alt="Northrop Grumman Logo"style="margin: auto; display: block"><img src=https://rocketry.gatech.edu/processed_images/5a1bf3113d59939a00.png alt="Rock West Composites Logo"width=600 height=100 style="margin: auto; display: block"><img src=https://rocketry.gatech.edu/processed_images/10c73e971e63bb0f00.png alt="The Graphite Store Logo"width=500 height=150 style="margin: auto; display: block"><img src=https://rocketry.gatech.edu/processed_images/f1c677b9d292a61600.png alt="ICI Logo"width=600 height=50 style="margin: auto; display: block"><img src=https://rocketry.gatech.edu/processed_images/2a9055fe2d91167a00.png alt="Big Red Bee Logo"width=300 height=200 style="margin: auto; display: block"></div></main><footer><small class=subtext> Ramblin' Rocket Club © 2024 </small></footer></body><script>
+    function highlightNav(heading) {
+      let pathname = location.pathname;
+      document.querySelectorAll(".toc a").forEach((item) => {
+        item.classList.remove("active");
+      });
+      document
+        .querySelector(".toc a[href$='" + pathname + "#" + heading + "']")
+        .classList.add("active");
+    }
+
+    let currentHeading = "";
+    window.onscroll = function () {
+      let h = document.querySelectorAll("h1,h2,h3,h4,h5,h6");
+      let elementArr = [];
+
+      h.forEach((item) => {
+        if (item.id !== "") {
+          elementArr[item.id] = item.getBoundingClientRect().top;
+        }
+      });
+      elementArr.sort();
+      for (let key in elementArr) {
+        if (!elementArr.hasOwnProperty(key)) {
+          continue;
+        }
+        if (elementArr[key] > 0 && elementArr[key] < 300) {
+          if (currentHeading !== key) {
+            highlightNav(key);
+            currentHeading = key;
+          }
+          break;
+        }
+      }
+    };
+  </script>

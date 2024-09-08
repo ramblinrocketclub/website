@@ -1,0 +1,53 @@
+<!DOCTYPE html><html lang=en><head><meta charset=UTF-8><meta name=viewport content="height=device-height, initial-scale=1"><title>GNC | </title><meta name=viewport content="width=device-width, initial-scale=1, shrink-to-fit=no"><style>
+    :root {
+        /* Primary theme color */
+        --primary-color: #BFB37C;
+        /* Primary theme text color */
+        --primary-text-color: #003057;
+        /* Primary theme link color */
+        --primary-link-color: #857437;
+        /* Secondary color: the background body color */
+        --secondary-color: #fcfaf6;
+        --secondary-text-color: #303030;
+        /* Highlight text color of table of content */
+        --toc-highlight-text-color: #d46e13;
+        /* Header -- Navy blue */
+        --header-background: #003057;
+        --header-text-color: #BFB37C;
+    }
+</style><link href=https://fonts.googleapis.com/css?family=Alfa+Slab+One&display=swap rel=stylesheet><link href=https://fonts.googleapis.com/css?family=Fira+Sans:400,500,600&display=swap rel=stylesheet><link rel=stylesheet href=/normalize.css><link rel=stylesheet href=https://rocketry.gatech.edu/base.css><body><header class=box-shadow><a href=https://rocketry.gatech.edu/> <div class=logo><img src=https://rocketry.gatech.edu/branding/header.png alt=logo></div> </a><nav><a class="nav-item subtitle-text"href=https://rocketry.gatech.edu/sponsors/>Sponsors</a><a class="nav-item subtitle-text"href=https://rocketry.gatech.edu/about/>About</a><div class="dropdown subtitle-text nav-item"><button class="dropdown-button nav-item subtitle-text"style="margin: 0;">Divisions</button><div class=dropdown-content><a class="nav-item subtitle-text"style="margin: 0;"href=https://rocketry.gatech.edu/divisions/gtxr/>GTXR</a><a class="nav-item subtitle-text"style="margin: 0;"href=https://rocketry.gatech.edu/divisions/hpr/>HPR</a><a class="nav-item subtitle-text"style="margin: 0;"href=https://rocketry.gatech.edu/divisions/hab/>HAB</a><a class="nav-item subtitle-text"style="margin: 0;"href=https://rocketry.gatech.edu/divisions/gnc/>GNC</a></div></div><a class="nav-item subtitle-text"href=https://ramblin-rocket-club.slack.com/>Slack</a><a class="nav-item subtitle-text"href=https://lists.gatech.edu/sympa/subscribe/gtrc>Mailing List</a></nav></header><main><div class="content text"><div class=heading-text>Guidance, Navigation and Controls | GNC</div><img src=https://rocketry.gatech.edu/divisions/gnc/gncbannerimg.png alt="Team photo"><p>Georgia Tech’s newest team, founded in 2022, focuses on building rockets with active controls using various methods. Their current goal is to become the first collegiate team to successfully demonstrate jet-vanes technology in a high-powered rocket. Previously, they have used active fin-control, or canards, on their maiden rocket, Megamind. The N-motor rocket successfully flew to 15,500 feet apogee, giving vital information to the team in developing their next rockets. In the Fall of 2023, the team developed two gimballed thrust-vectoring rockets called Gru and Vector, slated to launch in January. The team is now moving on to conducting static fires for their jet-vanes rocket, which will be launched in Fall 2024.<p>GNC welcomes students of all majors and backgrounds, and no prior experience is necessary. Our leads will guide new members from onboarding workshops to hands-on activities quickly. All that is required is a passion for rocketry, and a desire to explore novel concepts in collegiate-level aerospace engineering. Our subteams comprise of Structures, Avionics & Controls, Simulations, and Mechanical Guidance. GNC is always looking for more members who are willing to tackle engineering challenges and progress into the future!<p>Contact us through our Instagram, where we post major updates and events: @gt.gnc<h1 id=current-and-past-leadership>Current and Past Leadership</h1><h1 id=2023-2024>2023 - 2024</h1><ul><li>Co-Presidents: Margaret Hwang & Atharva Gujrathi</ul><h1 id=2022-2023>2022 - 2023</h1><ul><li>Co-Presidents: Adit Sachde & Tyler White</ul></div></main><footer><small class=subtext> Ramblin' Rocket Club © 2024 </small></footer></body><script>
+    function highlightNav(heading) {
+      let pathname = location.pathname;
+      document.querySelectorAll(".toc a").forEach((item) => {
+        item.classList.remove("active");
+      });
+      document
+        .querySelector(".toc a[href$='" + pathname + "#" + heading + "']")
+        .classList.add("active");
+    }
+
+    let currentHeading = "";
+    window.onscroll = function () {
+      let h = document.querySelectorAll("h1,h2,h3,h4,h5,h6");
+      let elementArr = [];
+
+      h.forEach((item) => {
+        if (item.id !== "") {
+          elementArr[item.id] = item.getBoundingClientRect().top;
+        }
+      });
+      elementArr.sort();
+      for (let key in elementArr) {
+        if (!elementArr.hasOwnProperty(key)) {
+          continue;
+        }
+        if (elementArr[key] > 0 && elementArr[key] < 300) {
+          if (currentHeading !== key) {
+            highlightNav(key);
+            currentHeading = key;
+          }
+          break;
+        }
+      }
+    };
+  </script>

@@ -1,0 +1,10 @@
+# This file is used by GT Plesk webhosting to redirect sites to the canonical URL
+# Do not change without understanding how Plesk works.
+
+RewriteEngine On
+RewriteCond %{HTTPS} off                                [OR]
+RewriteCond %{HTTP_HOST} ^www.rocketry.gatech.edu       [OR]
+RewriteCond %{HTTP_HOST} ^rocket.gtorg.gatech.edu       [OR]
+RewriteCond %{HTTP_HOST} ^www.rocket.gtorg.gatech.edu   [OR]
+RewriteCond %{HTTP_HOST} ^rocketry.gatech.edu
+RewriteRule (.*) https://www.ramblinrocketclub.org [R=301,L]
